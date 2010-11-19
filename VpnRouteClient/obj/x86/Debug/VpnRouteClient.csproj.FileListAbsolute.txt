@@ -1,0 +1,8 @@
+c:\users\bill\documents\visual studio 2010\Projects\VpnRouteClient\VpnRouteClient\bin\Debug\VpnRouteClient.exe
+c:\users\bill\documents\visual studio 2010\Projects\VpnRouteClient\VpnRouteClient\bin\Debug\VpnRouteClient.pdb
+c:\users\bill\documents\visual studio 2010\Projects\VpnRouteClient\VpnRouteClient\bin\Debug\DotRas.dll
+c:\users\bill\documents\visual studio 2010\Projects\VpnRouteClient\VpnRouteClient\bin\Debug\DotRas.xml
+c:\users\bill\documents\visual studio 2010\Projects\VpnRouteClient\VpnRouteClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bill\documents\visual studio 2010\Projects\VpnRouteClient\VpnRouteClient\obj\x86\Debug\VpnRouteClient.exe
+c:\users\bill\documents\visual studio 2010\Projects\VpnRouteClient\VpnRouteClient\obj\x86\Debug\VpnRouteClient.pdb
+c:\users\bill\documents\visual studio 2010\Projects\VpnRouteClient\VpnRouteClient\bin\Debug\VpnRouteClient.exe.config
